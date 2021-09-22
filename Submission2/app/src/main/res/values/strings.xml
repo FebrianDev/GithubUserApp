@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GithubApp</string>
+    <string name="github_users">Github Users</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="profile">Profile</string>
+    <string name="name_febrian">Febrian</string>
+    <string name="email_febrian26022001_gmail_com">febrian26022001@gmail.com</string>
+    <string name="organization">organization</string>
+    <string name="location">location</string>
+    <string name="follower">Followers</string>
+    <string name="following">Following</string>
+    <string name="back">back</string>
+    <string name="detail_user">Detail User</string>
+    <string name="success_delete">Success Delete from Favorite</string>
+    <string name="succes_add">Success Add to Favorite</string>
+    <string name="github_user">Github User</string>
+    <string name="repository">Repository</string>
+    <string name="repositories">Repositories</string>
+    <string name="github">github</string>
+    <string name="action">action</string>
+    <string name="share">share</string>
+</resources>
